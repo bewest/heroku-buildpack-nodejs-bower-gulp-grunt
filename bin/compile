@@ -186,7 +186,7 @@ export PATH="$GEM_HOME/bin:$PATH"
 (
   # porting in compass install
   # do not install compass
-
+  status "Skipping compass"
 )
 
 # cache ruby gems compass
